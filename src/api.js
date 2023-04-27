@@ -1,1 +1,1 @@
-export const BACKEND_URL= 'http://localhost:8800'
+export const BACKEND_URL= 'https://food-website-9xjk.onrender.com'
